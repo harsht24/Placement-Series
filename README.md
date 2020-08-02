@@ -6,4 +6,5 @@
   3. <a href='https://leetcode.com/problems/contains-duplicate/'>217. Contains Duplicate</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/ContainsDuplicateInteger.java'>Solution</a>
   4. <a href='https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/'>Two Sum</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/TwoSum.java'>Solution</a>
   5. <a href='https://leetcode.com/problems/move-zeroes/'>283. Move Zeroes </a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/MoveZeroes.java'>Solution</a>
-  6. <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/'>Detect Capital</a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/DetectCapital.java'>Solution</a> - Leetcode August Challenge Day-1
+## LeetCode Daily Challenge - AUGUST
+  Day 1 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/'>Detect Capital</a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/DetectCapital.java'>Solution</a>
