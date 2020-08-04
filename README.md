@@ -8,7 +8,7 @@
   5. <a href='https://leetcode.com/problems/move-zeroes/'>283. Move Zeroes </a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/MoveZeroes.java'>Solution</a>
   
 ### Queues : 
-  1. <a href='https://leetcode.com/problems/number-of-recent-calls/'></a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/numberOfRecentCalls.java'>Solution</a>
+  1. <a href='https://leetcode.com/problems/number-of-recent-calls/'>933. Number of Recent Calls</a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/numberOfRecentCalls.java'>Solution</a>
   
 ## LeetCode Daily Challenge - AUGUST
   Day 1 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/'>Detect Capital</a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/Daily%20Challenge%20August/DetectCapital.java'>Solution</a>
