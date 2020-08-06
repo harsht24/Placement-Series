@@ -7,7 +7,7 @@
   4. <a href='https://leetcode.com/problems/move-zeroes/'>283. Move Zeroes </a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/MoveZeroes.java'>Solution</a>
   
 ### Queues : 
-  1. <a href='https://leetcode.com/problems/number-of-recent-calls/'>933. Number of Recent Calls</a>-<a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/numberOfRecentCalls.java'>Solution</a>
+  1. <a href='https://leetcode.com/problems/number-of-recent-calls/'>933. Number of Recent Calls</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/numberOfRecentCalls.java'>Solution</a>
   
 ### Hashing : 
   1. <a href='https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/'>Two Sum</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/TwoSum.java'>Solution</a>
@@ -20,3 +20,5 @@
   Day 3 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/'>Valid Palindrome</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/Daily%20Challenge%20August/ValidPlaindrome.java'>Solution</a>
   
   Day 4 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/'>Power of Four</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/Daily%20Challenge%20August/PowerOfFour.java'>Solution</a>
+  
+  Day 6 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/'>Find All Duplicates in an Array</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/Daily%20Challenge%20August/FindAllDuplicatesInArray.java'>Solution</a>
