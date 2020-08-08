@@ -7,7 +7,9 @@ public class Main {
 //            System.out.println();
 //            nIncreasing(7);
 //            printDecreasingIncreasing(8);
-        System.out.println(powerLinear(2,4));
+    //        System.out.println(powerLinear(2,4));
+            TowerOfHanoi toh = new TowerOfHanoi();
+            toh.towerOfHanoi(3, 10, 20, 30);
     }
     public static int factorial(int n){
        if (n==0) return 1;
