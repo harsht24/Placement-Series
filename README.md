@@ -1,6 +1,6 @@
 # Placement Series in Java | Leetcode daily coding challenge | Java Foundation Questions and Solutions
 
-## Java Foundation - <a href = "https://github.com/harsht24/Placement-Series-in-Java/tree/master/Data%20Structures%20in%20Java/Foundation%20Java">Question Bank</a>
+## Java Foundation - <a href = "https://github.com/harsht24/Placement-Series-in-Java/tree/master/Data%20Structures%20in%20Java/Foundation%20Java">Question Bank topic wise</a>
 
 ## LeetCode Solutions Java-
 ### Arrays & Strings : 
