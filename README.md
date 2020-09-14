@@ -15,6 +15,9 @@
 ### Hashing : 
   1. <a href='https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/'>Two Sum</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/TwoSum.java'>Solution</a>
   
+### Dynamic Programming : 
+ 1. <a href='https://leetcode.com/problems/house-robber/'>198. House Robber</a> - <a href=''>Solution</a>
+  
 ## LeetCode Daily Challenge - AUGUST
   Day 1 - <a href='https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/'>Detect Capital</a> - <a href='https://github.com/harsht24/Placement-Series-in-Java/blob/master/Leetcode/Daily%20Challenge%20August/DetectCapital.java'>Solution</a>
   
