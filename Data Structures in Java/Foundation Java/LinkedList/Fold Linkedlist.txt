@@ -1,0 +1,27 @@
+// https://www.pepcoding.com/resources/online-java-foundation/linked-lists/fold-linkedlist-official/ojquestion#
+
+private void helperfold(Node right, int floor){
+        if(right==null){
+            return;
+        }
+        
+        helperfold(right.next, floor+1);
+        
+        if(floor>size/2){
+            right.next = fleft.next;
+            fleft.next = right;
+            fleft = right.next;
+        }
+        else if(floor==size/2){
+            tail = right;
+            tail.next = null;
+        }
+        
+    }
+    
+    Node fleft;
+    public void fold() {
+      // write your code here
+      fleft = head;
+      helperfold(head, 0);
+    }
