@@ -1,0 +1,29 @@
+// https://www.pepcoding.com/resources/online-java-foundation/binary-tree/diameter-of-binary-tree-official/ojquestion#
+
+public static int height(Node node) {
+    if (node == null) {
+      return -1;
+    }
+
+    int lh = height(node.left);
+    int rh = height(node.right);
+
+    int th = Math.max(lh, rh) + 1;
+    return th;
+  }
+
+  public static int diameter1(Node node) {
+    // write your code here
+    if(node==null){
+        return 0;
+    }
+    // max distance between nodes of LHS
+    int ld = diameter1(node.left);
+    // max distance between nodes of RHS
+    int rd = diameter1(node.right);
+    // max distance between left's deepest and right's deepest 
+    int f = height(node.left) + height(node.right) + 2;
+    
+    int dia = Math.max(f, Math.max(ld, rd));
+    return dia;
+  }
