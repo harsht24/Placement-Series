@@ -1,0 +1,30 @@
+// https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/tsp-bst-official/ojquestion#
+
+public static boolean find(Node node, int data){
+        if(node==null){
+            return false;
+        }
+        if(data > node.data){
+            return find(node.right, data);
+        }
+        else if(data < node.data){
+            return find(node.left, data);
+        }
+        else{
+            return true;
+        }
+    }
+    public static void travelAndPrint(Node root, Node node, int target){
+        if(node==null){
+            return;
+        }
+        travelAndPrint(root, node.left, target);
+        int compliment = target - node.data;
+        if(node.data < compliment){
+            if(find(root, compliment)==true){
+                System.out.println(node.data + " " + compliment);
+            }
+        }
+        travelAndPrint(root, node.right, target);
+        
+    }

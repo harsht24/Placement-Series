@@ -1,0 +1,18 @@
+// https://www.pepcoding.com/resources/online-java-foundation/binary-search-tree/add-node-to-bst-official/ojquestion#
+
+public static Node add(Node node, int data) {
+    // write your code here
+    if(node==null){
+        return new Node(data, null, null);
+    }
+    if(data > node.data){
+         node.right = add(node.right, data);
+    }
+    else if(data < node.data){
+        node.left = add(node.left, data);
+    }
+    else{
+        // nothing to do
+    }
+    return node;
+  }
